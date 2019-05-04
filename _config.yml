@@ -1,24 +1,18 @@
-title: Researcher
-url: "https://zendkash.github.io"
-baseurl: ""
+# Dependencies
+markdown:         kramdown 
+highlighter:      pygments
 
-markdown: kramdown
-#ins_logo: "./bits-logo.png"
+# Permalinks
+permalink:        pretty
 
-tracking_id: #
+# Setup
+title:            "Zenpoo"
+tagline:          'To infinity and beyond'
+description:      'Description'
+url:              http://zendkash.github.io
+baseurl:          /
 
-footer: yes
-footer_url: "https://github.com/ankitsultana"
-footer_text: "Page design by Ankit Sultana"
+author:
+  name:           'Mark Otto'
+  url:            https://twitter.com/mdo
 
-sass:
-    style: compressed
-    sass_dir: _sass
-
-nav:
- - name: "About"
-   link: "/"
- - name: "Resume"
-   link: "resume.pdf"
- - name: "Contact"
-   link: "contact"
