@@ -1,7 +1,8 @@
 ---
 layout: page
 title: super cool research1
-permalink: supercool1
+lang: en
+lang-ref: research1
 ---
 
 I study how robots go beep boop

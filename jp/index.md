@@ -1,5 +1,8 @@
 ---
 layout: page
+lang: jp
+lang-ref: index
+title: Home
 ---
 
 <img src="IMG_20190101_150621.jpg" alt="a great picture of me taken by my beautiful girlfriend" width="400"/>

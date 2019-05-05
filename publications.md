@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Publications
-permalink: /pub
+lang: en
+lang-ref: publications
 ---
 
 ## Publications

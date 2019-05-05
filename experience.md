@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Experience
-permalink: exp
+lang: en
+lang-ref: experience
 ---
 
 | | | 

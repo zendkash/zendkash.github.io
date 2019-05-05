@@ -10,9 +10,19 @@ title:            "Zendai Kashino"
 tagline:          'ikura wa ikura?'
 description:      'Super cool grad student'
 url:              http://zendkash.github.io
-baseurl:          /
 
-author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
-
+defaults:
+    -
+     scope:
+         path: ""
+     values:
+         author: "me"
+         layout: default
+         lang: en
+         base-url: "/"
+    -
+     scope:
+         path: jp
+     values:
+         lang: jp
+         base-url: "/jp/"

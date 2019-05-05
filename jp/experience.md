@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Experience
-permalink: exp
+lang: jp
+lang-ref: experience
 ---
 
 | | | 

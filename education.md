@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Education
-lang: jp
+lang: en
 lang-ref: education
 ---
 

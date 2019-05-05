@@ -20,6 +20,12 @@
   <link rel="apple-touch-icon-precomposed" sizes="144x144" href="{{ site.baseurl }}public/apple-touch-icon-144-precomposed.png">
                                  <link rel="shortcut icon" href="{{ site.baseurl }}public/favicon.ico">
 
-  <!-- RSS -->
-  <link rel="alternate" type="application/rss+xml" title="RSS" href="/atom.xml">
+{% assign posts=site.pages | where:"lang-ref", page.lang-ref | sort: 'lang' %}
+
+<div class="lang" align="right">
+    {% for post in posts %}
+        <a class="{{ post.lang }}" href="{{ site.base-url }}{{ post.url }}">{{ post.lang }}</a>
+    {% endfor %}  
+</div>
+
 </head>

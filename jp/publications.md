@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Publications
-permalink: /pub
+lang: jp
+lang-ref: publications
 ---
 
 ## Publications
