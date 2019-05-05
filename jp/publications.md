@@ -3,6 +3,7 @@ layout: page
 title: Publications
 lang: jp
 lang-ref: publications
+page-order: 4
 ---
 
 ## Publications

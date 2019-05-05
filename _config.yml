@@ -10,6 +10,7 @@ title:            "Zendai Kashino"
 tagline:          'ikura wa ikura?'
 description:      'Super cool grad student'
 url:              http://zendkash.github.io
+baseurl:          /
 
 defaults:
     -

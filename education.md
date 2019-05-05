@@ -3,6 +3,7 @@ layout: page
 title: Education
 lang: en
 lang-ref: education
+page-order: 2
 ---
 
 I am so educated wow

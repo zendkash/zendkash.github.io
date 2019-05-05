@@ -3,6 +3,7 @@ layout: page
 title: Experience
 lang: jp
 lang-ref: experience
+page-order: 3
 ---
 
 | | | 
