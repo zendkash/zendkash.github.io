@@ -27,3 +27,13 @@ defaults:
      values:
          lang: jp
          base-url: "/jp/"
+t:
+    title:
+        en: "Zendai Kashino"
+        jp: "ゼンダイ"
+    description:
+        en: "Super cool grad student"
+        jp: "Suppura kakkoi gakuinsei"
+    langchange:
+        en: "English"
+        jp: "日本語"

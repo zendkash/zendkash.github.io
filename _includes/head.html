@@ -24,7 +24,7 @@
 
 <div class="lang" align="right">
     {% for post in posts %}
-        <a class="{{ post.lang }}" href="{{ site.base-url }}{{ post.url }}">{{ post.lang }}</a>
+        <a class="{{ post.lang }}" href="{{ site.base-url }}{{ post.url }}">{{ site.t['langchange'][post.lang] }}</a>
     {% endfor %}  
 </div>
 
