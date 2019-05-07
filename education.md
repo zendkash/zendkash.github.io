@@ -13,7 +13,7 @@ page-order: 2
 |University of Toronto| Toronto, ON, Canada| 
 |*Ph.D. in Mechanical and Industrial Engineering* | 2015-Present|
 
-[Associated project]()
+[Associated project](../research1)
 
 <details>
 <summary><strong>Associated Courses</strong></summary>
