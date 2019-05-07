@@ -9,9 +9,9 @@ permalink:        pretty
 title:            "Zendai Kashino"
 tagline:          'ikura wa ikura?'
 description:      'Super cool grad student'
-url:              /
+url:              "/"
 #baseurl:          /
-baseurl:          http://zendkash.github.io/
+baseurl:          "http://zendkash.github.io/"
 
 defaults:
     -
@@ -21,7 +21,7 @@ defaults:
          author: me
          layout: default
          lang: en
-         base-url: /
+         base-url: "/"
     -
      scope:
          path: jp
