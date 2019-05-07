@@ -8,12 +8,6 @@ page-order: 1
 
 ## Zendai Kashino
 
-I am a graduate student in MIE at the University of Toronto. I am currently researching bla bla bla and am interested in bla bla bla. My supervisors are blabalbalbalba.
+I am a graduate student in the Department of Mechanical and Industrial Engineering at the University of Toronto. I am currently doing research in the [Computer Integrated Manufacturing Lab](https://cimlab.mie.utoronto.ca/) and [Autonomous Systems and Biomechatronics Lab](http://asblab.mie.utoronto.ca/) under the co-supervision of Prof. Beno Benhabib and Prof. Goldie Nejat. 
 
-
-I am studying the following research themes:
-
-* [Super interesting topic](../super-interesting-topic)
-* [Super interesting topic](../super-interesting-topic)
-
-Learn more by emailing me at zendkash@blablabalbalba.com
+My current research focuses on [search planning in wilderness search and rescue missions](../research1).

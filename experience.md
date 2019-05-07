@@ -6,41 +6,37 @@ lang-ref: experience
 page-order: 3
 ---
 
-| | | 
-|-------: | :---| 
-| Legend:&nbsp;| UTSG = University of Toronto, St. George Campus |
-|         | UBC = University of British Columbia, Vancouver Campus |
+| | |
+|:--|--:|
+|**University of Toronto**|Toronto, ON, Canada|
+|*Graduate Teaching Assistant - MIE 231*|2015–present|
 
-### Research
+Marking, invigilation, tutorial, and lab teaching assistant for Probability and Statistics for Engineers. Also managed the teaching assistant team as the Head Teaching Assistant.
 
- | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| |
- |-------: | :---|
- | 05/2016-Now:&nbsp;| [Hoffman Research Group](http://www.hoffmanlab.org), UHN + Dept of Medical Biophysics & Computer Science @ UTSG |
- | | Computational genomics research assistant |
- | | |
- | | **Project 1**: Development of new features for both unsupervised and semi-supervised learning in the semi-automated genome annotation (SAGA) method Segway. |
- | | **Project 2**: Development of a new Gaussian mixture model for Segway, allowing modeling of more complicated genomic signal distributions. |
- | | **Project 3**: Development of a novel neural network (LSTM) method for SAGA.|
- | | |
- | | **Keywords**: _high-performance computing, statistics, machine learning, bioinformatics_ |
- | | |
- | 09/2017-12/2017:&nbsp;| [MRI Science Lab](http://mriscience.med.ubc.ca/), Dept of Medicine @ UBC|
- | | Engineering Physics capstone student |
- | | |
- | | Development of a model for myelinated axons in MRI that takes into account the diffusion-mediated effects of water molecules in the brain.|
- | | |
- | | **Keywords**: _computational biophysics, numerical methods_ |
- | | |
- | 09/2016-05/2017:&nbsp;| [Gordon Research Group](http://www.zoology.ubc.ca/~gordon/), Dept of Zoology @ UBC|
- | | Engineering Physics capstone student |
- | | |
- | | Design, development & assembly of the STROBE (Sip-TRiggered Optogenetic Behavior Enclosure) system. The STROBE was created to study the use of optogenetic activation of specific reward or punishment neurons, in order to make flies learn to be more or less attracted to specific food sources. |
- | | |
- | | Awarded the Eric Roenitz Memorial Prize for showing "considerable dedication to the capstone project" and "illustrating a high level of ingenuity."|
- | | |
- | | **Keywords**: _embedded control systems, signal processing, optogenetics, circuit development_ |
+| | |
+|:--|--:|
+|**Bevo Farms**|Milner, BC, Canada|
+|*Capstone project student*|September 2014–January 2015|
 
+The design and implementation of a large scale robotic work platform for reducing strain on workers in a hydroponic seedling farm.
 
-### Teaching Assistantships
+| | |
+|:--|--:|
+|**NZ Technologies**|Vancouver, BC, Canada|
+|*Embedded Systems Research Engineer*|May 2014–September 2014|
 
-* CSC108: Introduction to Computer Programming (UTSG Fall 2018)
+Developed real time machine vision applications for use on mobile and embedded applications. Designed and constructed experimental prototypes and proof of concept devices for new device ideas. Devices included embedded sensor devices employing machine vision and wireless networking as well as devices including actuation.
+
+| | |
+|:--|--:|
+|**Azbil Corporation**|Fujisawa, Kanagawa, Japan|
+|*Intern*|June 2013–December 2013|
+
+Worked in the Actuating Technologies Group of the Core Technologies Department to apply the HALCON machine vision software package for image processing of a visually cluttered environment. Evaluated and improved the operation of a mechanism for linear actuation. Assisted in the design of the control circuitry and experimental setup for the mechanism.
+
+| | |
+|:--|--:|
+|**UBC Physics and Astronomy Outreach**|Vancouver, BC, Canada|
+|*Outreach assistant*|January 2012–April 2012|
+
+Created and managed the registrations for a nationally written exam for students up to Grade 10. Assisted in organizing events and competitions for encouraging the public to take interest in the sciences. Researched and wrote articles for publication on a web platform.

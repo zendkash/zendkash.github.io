@@ -6,10 +6,8 @@ lang-ref: contact
 page-order: 6
 ---
 
-Contact me at zendai@iroha.com
+[Email](mailto:zendkash@mie.utoronto.ca)
 
-Also physical address
+[Google Scholar](https://scholar.google.ca/citations?user=_WdA8SEAAAAJ&hl=en)
 
-Also google scholar + twitter
-
-Also cimlab url
+Current lab websites: [CIM Lab](https://cimlab.mie.utoronto.ca/) and [ASB Lab](http://asblab.mie.utoronto.ca/)
