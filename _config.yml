@@ -21,7 +21,7 @@ defaults:
          author: me
          layout: default
          lang: en
-         base-url: http://zendkash.github.io/
+         base-url: /
     -
      scope:
          path: jp
