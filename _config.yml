@@ -11,7 +11,7 @@ tagline:          'ikura wa ikura?'
 description:      'Super cool grad student'
 url:              "/"
 #baseurl:          /
-baseurl:          "http://zendkash.github.io/"
+baseurl:          "https://zendkash.github.io/"
 
 defaults:
     -
