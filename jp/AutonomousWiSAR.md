@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Autonomous WiSAR
-lang: en
-lang-ref: research1
+lang: jp
+lang-ref: AutonomousWiSAR
 page-order: 5
 ---
 # Autonomous WiSAR
