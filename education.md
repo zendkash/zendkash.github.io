@@ -13,10 +13,9 @@ page-order: 2
 |University of Toronto| Toronto, ON, Canada| 
 |*Ph.D. in Mechanical and Industrial Engineering* | 2015-Present|
 
-[Associated project](../research1)
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Associated project](../AutonomousWiSAR)
 <details>
-<summary><strong>Associated Courses</strong></summary>
+<summary><strong>&nbsp;&nbsp;&nbsp;&nbsp;Associated Courses</strong></summary>
 <ul>
 <li>CSC2515H - Introduction to Machine Learning</li>
 <li>MIE1070H - Intelligent Robots for Society</li>
@@ -27,13 +26,14 @@ page-order: 2
 </ul>
 </details>
 
+
 | | | 
 |:---|---:| 
 |University of British Columbia| Toronto, ON, Canada| 
 |*B.A.Sc. in Engineering Physics, Minor in Honours Math* | 2010-2015|
 
 <details>
-<summary><strong>Associated Courses</strong></summary>
+<summary><strong>&nbsp;&nbsp;&nbsp;&nbsp;Associated Courses</strong></summary>
 
 <details>
 <summary>Mathematics</summary>
