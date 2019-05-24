@@ -27,7 +27,7 @@ The design and implementation of a large scale robotic work platform for reducin
 |**NZ Technologies**|Vancouver, BC, Canada|
 |*Embedded Systems Research Engineer*|May 2014–September 2014|
 
-Developed real time machine vision applications for use on mobile and embedded applications. Designed and constructed experimental prototypes and proof of concept devices for new device ideas. Devices included embedded sensor devices employing machine vision and wireless networking as well as devices including actuation.
+Developed real time machine vision applications for use on mobile and embedded applications. Designed and constructed experimental prototypes and proof of concept devices for new device ideas. Devices included embedded sensor devices employing machine vision and wireless networking.
 
 | | |
 |:--|--:|

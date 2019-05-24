@@ -7,8 +7,8 @@ permalink:        pretty
 
 # Setup
 title:            "Zendai Kashino"
-tagline:          'ikura wa ikura?'
-description:      'Super cool grad student'
+tagline:          '柏野　善大'
+description:      'Ph.D. Candidate at UofT'
 url:              "/"
 #baseurl:          /
 baseurl:          "https://zendkash.github.io/"
@@ -33,8 +33,8 @@ t:
         en: "Zendai Kashino"
         jp: "柏野　善大"
     description:
-        en: "Super cool grad student"
-        jp: "Suppura kakkoi gakuinsei"
+        en: "Ph.D. Candidate at UofT"
+        jp: "トロント大学博士候補"
     langchange:
         en: "English"
         jp: "日本語"

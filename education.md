@@ -29,7 +29,7 @@ page-order: 2
 
 | | | 
 |:---|---:| 
-|University of British Columbia| Toronto, ON, Canada| 
+|University of British Columbia| Vancouver, BC, Canada| 
 |*B.A.Sc. in Engineering Physics, Minor in Honours Math* | 2010-2015|
 
 <details>
@@ -48,12 +48,12 @@ page-order: 2
 <li>MATH 307 - Applied Linear Algebra</li>
 <li>MATH 305 - Applied Complex Analysis</li>
 <li>MATH 301 - Applied Analysis</li>
-<li>MATH 257 - 	Partial Differential Equations</li>
+<li>MATH 257 - Partial Differential Equations</li>
 <li>MATH 255 - Ordinary Differential Equations</li>
 <li>MATH 221 - Matrix Algebra</li>
 <li>MATH 217 - Multivariable and Vector Calculus</li>
 <li>MATH 101 - Integral Calculus with Applications to Physical Sciences and Engineering</li>
-<li>MATH 100 - 	Differential Calculus with Applications to Physical Sciences and Engineering</li>
+<li>MATH 100 - Differential Calculus with Applications to Physical Sciences and Engineering</li>
 </ul>
 </details>
 

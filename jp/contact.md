@@ -1,15 +1,24 @@
 ---
 layout: page
-title: いろばとContact
+title: 連絡先
 lang: jp
 lang-ref: contact
 page-order: 6
 ---
 
-Contact me at zendai@iroha.com
+# 連絡先
 
-Also physical address
+メール: <zendkash@mie.utoronto.ca>
 
-Also google scholar + twitter
+## 現在所属研究室
+[CIM Lab](https://cimlab.mie.utoronto.ca/)  
+[ASB Lab](http://asblab.mie.utoronto.ca/)
 
-Also cimlab url
+Room MB57, Lassonde Mining Building\\
+170 College St\\
+Toronto, ON M5S 3E3\\
+Canada
+
+## 他
+
+[グーグル・スカラ](https://scholar.google.ca/citations?user=_WdA8SEAAAAJ&hl=en)

@@ -1,46 +1,44 @@
 ---
 layout: page
-title: Experience
+title: 職歴
 lang: jp
 lang-ref: experience
 page-order: 3
 ---
 
-| | | 
-|-------: | :---| 
-| Legend:&nbsp;| UTSG = University of Toronto, St. George Campus |
-|         | UBC = University of British Columbia, Vancouver Campus |
+# 職歴
 
-### Research
+| | |
+|:--|--:|
+|**トロント大学**|トロント市<br/>オンタリオ州<br/>カナダ|
+|*ティーチングアシスタント - MIE 231*|2015年-現在|
 
- | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| |
- |-------: | :---|
- | 05/2016-Now:&nbsp;| [Hoffman Research Group](http://www.hoffmanlab.org), UHN + Dept of Medical Biophysics & Computer Science @ UTSG |
- | | Computational genomics research assistant |
- | | |
- | | **Project 1**: Development of new features for both unsupervised and semi-supervised learning in the semi-automated genome annotation (SAGA) method Segway. |
- | | **Project 2**: Development of a new Gaussian mixture model for Segway, allowing modeling of more complicated genomic signal distributions. |
- | | **Project 3**: Development of a novel neural network (LSTM) method for SAGA.|
- | | |
- | | **Keywords**: _high-performance computing, statistics, machine learning, bioinformatics_ |
- | | |
- | 09/2017-12/2017:&nbsp;| [MRI Science Lab](http://mriscience.med.ubc.ca/), Dept of Medicine @ UBC|
- | | Engineering Physics capstone student |
- | | |
- | | Development of a model for myelinated axons in MRI that takes into account the diffusion-mediated effects of water molecules in the brain.|
- | | |
- | | **Keywords**: _computational biophysics, numerical methods_ |
- | | |
- | 09/2016-05/2017:&nbsp;| [Gordon Research Group](http://www.zoology.ubc.ca/~gordon/), Dept of Zoology @ UBC|
- | | Engineering Physics capstone student |
- | | |
- | | Design, development & assembly of the STROBE (Sip-TRiggered Optogenetic Behavior Enclosure) system. The STROBE was created to study the use of optogenetic activation of specific reward or punishment neurons, in order to make flies learn to be more or less attracted to specific food sources. |
- | | |
- | | Awarded the Eric Roenitz Memorial Prize for showing "considerable dedication to the capstone project" and "illustrating a high level of ingenuity."|
- | | |
- | | **Keywords**: _embedded control systems, signal processing, optogenetics, circuit development_ |
+講義MIE231「技術者のための確率および統計学」で採点、試験監督および座学と実技の指導。その他、ヘッドティーチングアシスタントとしてティーチングアシスタントチームの管理。
 
+| | |
+|:--|--:|
+|**Bevo Farms**|ミルナー市<br/>ブリティッシュコロンビア州<br/>カナダ|
+|*学部生プロジェクト*|2014年9月–2015年1月|
 
-### Teaching Assistantships
+水耕苗農場における労働者の負担を軽減するための大規模ロボット作業プラットフォームの設計と実施。
 
-* CSC108: Introduction to Computer Programming (UTSG Fall 2018)
+| | |
+|:--|--:|
+|**NZ Technologies**|バンクーバー市<br/>ブリティッシュコロンビア州<br/>カナダ|
+|*組込みシステム研究エンジニア*|2014年5月–2014年9月|
+
+モバイルおよび組込システムで使用するためのリアルタイムマシンビジョンプログラムの開発。概念実証のために新装置のプロトタイプの設計と実施。装置は、マシンビジョンおよび無線ネットワーキングを使用する組込型センサー装置。
+
+| | |
+|:--|--:|
+|**アズビル株式会社**|藤沢市神奈川県日本|
+|*インターン*|2013年6月–2013年12月|
+
+基幹技術開発部でHALCONマシンビジョンソフトを使った雑然とした環境での画像処理。線形アクチュエータ動作の評価および制御回路と実験装置の設計。
+
+| | |
+|:--|--:|
+|**ブリティッシュコロンビア大学<br/>物理・天文学部アウトリーチ**|バンクーバー市<br/>ブリティッシュコロンビア州<br/>カナダ|
+|*アウトリーチアシスタント*|2012年1月–2012年4月|
+
+全国の中学３年生未満の学生が参加できる試験を作成。試験の登録を管理。一般の人々に科学に関心を持ってもらうためのイベントや競技会の開催を支援。ネットで公開するための教育記事を作成。

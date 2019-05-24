@@ -1,19 +1,13 @@
 ---
 layout: page
 lang: jp
+title: ホーム 
 lang-ref: index
-title: Home
 page-order: 1
 ---
 
-## Zendai Kashino
+# 柏野　善大
 
-I am a graduate student in MIE at the University of Toronto. I am currently researching bla bla bla and am interested in bla bla bla. My supervisors are blabalbalbalba.
+トロント大学機械・生産管理工学部で博士課程の学院生をしています。[Computer Integrated Manufacturing Lab](https://cimlab.mie.utoronto.ca/)と[Autonomous Systems and Biomechatronics Lab](http://asblab.mie.utoronto.ca/)のメンバーでBeno Benhabib教授とGoldie Nejat教授のもとで研究を進めています。  
 
-
-I am studying the following research themes:
-
-* [Super interesting topic](../super-interesting-topic)
-* [Super interesting topic](../super-interesting-topic)
-
-Learn more by emailing me at zendkash@blablabalbalba.com
+現在は[自律捜索救難の計画](../AutonomousWiSAR)について研究中です.
