@@ -5,7 +5,7 @@ lang: en
 lang-ref: AutonomousWiSAR
 page-order: 5
 ---
-# Autonomous WiSAR
+# Autonomous Wilderness Search and Rescue (WiSAR)
 
 
 
@@ -16,7 +16,7 @@ The research examined several approaches to addressing the WiSAR search problem 
 ## Static-Sensor Search<a name="staticSensor"></a>
 Static-sensor networks can cover a large geographical area at a relatively low cost.
 Despite this, they have been largely overlooked as an approach to mobile-target search.
-Part of my research into autonomous WiSAR looked into how static-sensor networks could be used in WiSAR.
+Part of this research into autonomous WiSAR looked into how static-sensor networks could be used in WiSAR.
 The work has resulted in a strategy for planning a static-sensor network deployment for effectively locating lost persons in a wilderness setting.
 
 ![An example search with a dynamically deployed static-sensor network]({{ site.baseurl }}images/StaticSensorExample.jpg)
@@ -34,7 +34,7 @@ Since static-sensors in the above work are assumed to be immobile, they need to 
 Dedicating agents to the delivery of sensors, however, is an inefficient use of resources.
 This is especially true since the sensors in the above work have scheduled deployments.
 A more effective overall search can be achieved by having mobile-agents multitask, i.e., search for the target as they deliver sensors.
-My research into autonomous WiSAR continued with the investigation into how mobile and static searches could be used together.
+This research into autonomous WiSAR continued with the investigation into how mobile and static searches could be used together.
 The work has resulted in the formulation of a novel variant of the vechile routing problem and a novel hybrid search planning strategy.
 
 ![An example search with a dynamically deployed static-sensor network]({{ site.baseurl }}images/MobileStaticHybridSearch.jpg)
