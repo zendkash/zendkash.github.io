@@ -6,12 +6,12 @@ lang-ref: education
 page-order: 2
 ---
 
-# Education
+# 学歴
 
 | | | 
 |:---|---:| 
 |トロント大学|トロント市<br/>オンタリオ州<br/>カナダ| 
-|*機械・生産管理工学　博士* | 2015年-現在|
+|*機械・生産管理工学　博士候補*| 2015年-現在|
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[関連プロジェクト](../AutonomousWiSAR)
 <details>
@@ -30,7 +30,7 @@ page-order: 2
 | | | 
 |:---|---:| 
 |ブリティッシュコロンビア大学|バンクーバー市<br/>ブリティッシュコロンビア州<br/>カナダ| 
-|*工学部物理工学科　（副専攻　数学）* | 2010年-2015年|
+|*工学部物理工学科　（副専攻　数学）*| 2010年-2015年|
 
 <details>
 <summary><strong>&nbsp;&nbsp;&nbsp;&nbsp;関連講義</strong></summary>
@@ -144,16 +144,16 @@ page-order: 2
 ### 受賞
 
 Ontario Graduate Scholarship (2016-2018)
-: 学術的功績をもとに授与される奨学金。
+: 学術的功績をもとに授与される。
 
 MIE Graduate Student Travel Grant (2017)
-: 学部より授与される旅行助成金。
+: 学部より授与される旅行補助金。
 
 RAS IROS 2017 Travel Grant (2017)
-: IEEE/RASにより授与される旅行助成金。
+: IEEE/RASにより授与される旅行補助金。
 
 SGS Conference Grant (2017)
-: トロント大学大学院により授与される旅行助成金。
+: トロント大学大学院により授与される旅行補助金。
 
 Roy Nodwell Memorial Prize (2015)
 : 学部生最終プロジェクトに授与される。
