@@ -3,7 +3,7 @@ layout: page
 title: 連絡先
 lang: jp
 lang-ref: contact
-page-order: 6
+page-order: 101
 ---
 
 # 連絡先

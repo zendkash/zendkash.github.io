@@ -3,7 +3,7 @@ layout: page
 title: Contact
 lang: en
 lang-ref: contact
-page-order: 6
+page-order: 101
 ---
 
 # Contact information
