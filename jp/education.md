@@ -11,7 +11,7 @@ page-order: 2
 | | | 
 |:---|---:| 
 |トロント大学|トロント市<br/>オンタリオ州<br/>カナダ| 
-|*機械・生産管理工学　博士候補*| 2015年-現在|
+|*機械・生産管理工学　博士後期課程在学中*| 2015年-現在|
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[関連プロジェクト](../AutonomousWiSAR)
 <details>
@@ -147,19 +147,19 @@ Ontario Graduate Scholarship (2016-2018)
 : 学術的功績をもとに授与される。
 
 MIE Graduate Student Travel Grant (2017)
-: 学部より授与される旅行補助金。
+: 国際学会に参加する際に学部より授与される。
 
 RAS IROS 2017 Travel Grant (2017)
-: IEEE/RASにより授与される旅行補助金。
+: IROS2017に参加する際にIEEE/RASにより授与される。
 
 SGS Conference Grant (2017)
-: トロント大学大学院により授与される旅行補助金。
+: 国際学会に参加する際にトロント大学大学院により授与される。
 
 Roy Nodwell Memorial Prize (2015)
 : 学部生最終プロジェクトに授与される。
 
 Trek Excellence Scholarship (2012)
-: UBCバンクーバーで国内学生のトップ５割に授与される。
+: UBCバンクーバーで国内学生のトップ５％に授与される。
 
 Dean’s Honour List (2010–2015)
 : 学部課程での学術的優秀さに対して授与される。
