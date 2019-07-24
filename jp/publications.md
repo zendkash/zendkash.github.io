@@ -9,6 +9,8 @@ page-order: 4
 # 発表論文
 
 ## 論文誌
+J. C. L. Shin, **Z. Kashino**, G. Nejat, and B. Benhabib, “A Sensor-Network-Supported Mobile-Agent-Search Strategy for Wilderness Rescue,” *Robotics*, vol. 8, no. 3, p. 61, Jul. 2019, [doi: 10.3390/robotics8030061](https://doi.org/10.3390/robotics8030061).
+
 F. Niroui, K. Zhang, **Z. Kashino**, and G. Nejat, “Deep Reinforcement Learning Robot for Search and Rescue Applications: Exploration in Unknown Cluttered Environments,” *IEEE Robotics and Automation Letters*, vol. 4, no. 2, pp. 610–617, Apr. 2019, [doi: 10.1109/LRA.2019.2891991](https://doi.org/10.1109/LRA.2019.2891991).
 
 J. Y. Kim, **Z. Kashino**, T. Colaco, G. Nejat, and B. Benhabib, “Design and Implementation of a Millirobot for Swarm Studies – mROBerTO,” *Robotica*, vol. 36, no. 11, pp. 1591–1612, Nov. 2018, [doi: 10.1017/S0263574718000589](https://doi.org/10.1017/S0263574718000589).
