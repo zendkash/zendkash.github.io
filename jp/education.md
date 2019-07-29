@@ -143,7 +143,7 @@ page-order: 2
 <br/>
 ### 受賞
 
-Ontario Graduate Scholarship (2016-2018)
+Ontario Graduate Scholarship (2016-2019)
 : 学術的功績をもとに授与される。
 
 MIE Graduate Student Travel Grant (2017)

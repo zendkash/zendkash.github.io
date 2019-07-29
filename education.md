@@ -143,7 +143,7 @@ page-order: 2
 <br/>
 ### Recent Awards
 
-Ontario Graduate Scholarship (2016-2018)
+Ontario Graduate Scholarship (2016-2019)
 : Merit based scholarship encouraging excellence in graduate studies.
 
 MIE Graduate Student Travel Grant (2017)
