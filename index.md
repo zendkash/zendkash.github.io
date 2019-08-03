@@ -12,4 +12,4 @@ I am a graduate student in the Department of Mechanical and Industrial Engineeri
 
 My current research focuses on [search planning in wilderness search and rescue missions](../AutonomousWiSAR).
 
-Research interests include but are not limited to: optimization, probabilistic reasoning, search and rescue robotics, path planning, multi-robot systems, sensor networks, computer vision, augmented/virtual reality, human augmentation, machine learning, human-robot/human-computer interaction/integration.
+Research interests include but are not limited to: optimization, operations research, probabilistic reasoning, search and rescue robotics, path planning, multi-robot systems, sensor networks, computer vision, augmented/virtual reality, human augmentation, machine learning, human-robot/human-computer interaction/integration.
