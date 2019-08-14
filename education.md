@@ -106,8 +106,8 @@ page-order: 2
 <li>ENPH 352 - Laboratory Techniques in Physics</li>
 <li>ENPH 270 - Mechanics II</li>
 <li>ENPH 259 - Experimental Techniques</li>
-<li>ENPH 257 - Introduction to Instrument Design</li>
-<li>ENPH 253 - Heat and Thermodynamics</li>
+<li>ENPH 257 - Heat and Thermodynamics</li>
+<li>ENPH 253 - Introduction to Instrument Design</li>
 </ul>
 </details>
 
