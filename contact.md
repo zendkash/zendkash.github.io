@@ -8,16 +8,10 @@ page-order: 101
 
 # Contact information
 
-email: <zendkash@mie.utoronto.ca>
+email: <kashino@star.rcast.u-tokyo.ac.jp>
 
-## Current labs
-[CIM Lab](https://cimlab.mie.utoronto.ca/)  
-[ASB Lab](http://asblab.mie.utoronto.ca/)
-
-Room MB57, Lassonde Mining Building\\
-170 College St\\
-Toronto, ON M5S 3E3\\
-Canada
+## Current Lab
+[Information Somatics Lab](https://star.rcast.u-tokyo.ac.jp/en/)  
 
 ## Other
 
