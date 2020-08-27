@@ -293,6 +293,11 @@ tbody tr:nth-child(odd) th {
   margin-right: auto;
 }
 
+@media {
+.container, .navbar-static-top .container, .navbar-fixed-top .container, .navbar-fixed-bottom .container {
+    width: auto !important;
+}
+}
 
 /*
  * Masthead
