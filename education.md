@@ -11,7 +11,7 @@ page-order: 2
 | | | 
 |:---|---:| 
 |University of Toronto| Toronto, ON, Canada| 
-|*Ph.D. in Mechanical and Industrial Engineering* | 2015-Present|
+|*Ph.D. in Mechanical and Industrial Engineering* | 2015-2020|
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Associated project](../AutonomousWiSAR)
 <details>

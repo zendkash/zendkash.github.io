@@ -8,16 +8,10 @@ page-order: 101
 
 # 連絡先
 
-メール: <zendkash@mie.utoronto.ca>
+メール: <kashino@star.rcast.u-tokyo.ac.jp>
 
 ## 現在所属研究室
-[CIM Lab](https://cimlab.mie.utoronto.ca/)  
-[ASB Lab](http://asblab.mie.utoronto.ca/)
-
-Room MB57, Lassonde Mining Building\\
-170 College St\\
-Toronto, ON M5S 3E3\\
-Canada
+[身体情報学分野 稲見・檜山・瓜生研究室](https://star.rcast.u-tokyo.ac.jp/en/)
 
 ## 他
 

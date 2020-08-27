@@ -10,8 +10,15 @@ page-order: 3
 
 | | |
 |:--|--:|
+|**RCAST, University of Tokyo**|Meguro, Tokyo, Japan|
+|*Project Assistant Professor*|2020-present|
+
+Research and education relating to the area of Information Somatics.
+
+| | |
+|:--|--:|
 |**University of Toronto**|Toronto, ON, Canada|
-|*Graduate Teaching Assistant - MIE 231*|2015–present|
+|*Graduate Teaching Assistant - MIE 231*|2015–2020|
 
 Marking, invigilation, tutorial, and lab teaching assistant for Probability and Statistics for Engineers. Also managed the teaching assistant team as the Head Teaching Assistant.
 
