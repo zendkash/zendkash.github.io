@@ -8,7 +8,7 @@ permalink:        pretty
 # Setup
 title:            "Zendai Kashino"
 tagline:          '柏野　善大'
-description:      'Project Assistant Professor at UTokyo'
+description:      'Assistant Professor at UTokyo'
 url:              "/"
 #baseurl:          /
 baseurl:          "https://zendkash.github.io/"
@@ -33,8 +33,8 @@ t:
         en: "Zendai Kashino"
         jp: "柏野　善大"
     description:
-        en: "Proj. Asst. Prof. at UTokyo"
-        jp: "東京大学 特任助教"
+        en: "Asst. Prof. at UTokyo"
+        jp: "東京大学 助教"
     langchange:
         en: "English"
         jp: "日本語"

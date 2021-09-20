@@ -11,7 +11,14 @@ page-order: 3
 | | |
 |:--|--:|
 |**RCAST, University of Tokyo**|Meguro, Tokyo, Japan|
-|*Project Assistant Professor*|2020-present|
+|*Assistant Professor*|2021-present|
+
+Research and education relating to the area of Information Somatics.
+
+| | |
+|:--|--:|
+|**RCAST, University of Tokyo**|Meguro, Tokyo, Japan|
+|*Project Assistant Professor*|2020-2021|
 
 Research and education relating to the area of Information Somatics.
 
