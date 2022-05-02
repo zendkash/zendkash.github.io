@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Autonomous WiSAR
 lang: en
 lang-ref: AutonomousWiSAR

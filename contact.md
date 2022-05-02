@@ -8,7 +8,9 @@ page-order: 101
 
 # Contact information
 
-email: <kashino@star.rcast.u-tokyo.ac.jp>
+Work email: `kashino [at] star.rcast.u-tokyo.ac.jp`
+
+Personal email: `zendkash [at] gmail.com`
 
 ## Current Lab
 [Information Somatics Lab](https://star.rcast.u-tokyo.ac.jp/en/)  

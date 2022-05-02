@@ -12,29 +12,30 @@ page-order: 3
 |:--|--:|
 |**RCAST, University of Tokyo**|Meguro, Tokyo, Japan|
 |*Assistant Professor*|2021-present|
+|*Project Assistant Professor*|2020-2021|
 
-Research and education relating to the area of Information Somatics.
+Supervised research projects through to publication across a wide variety of topics relating to human augmentation such as haptics, telepresence, human sensing, augmented reality, robotic augmentation, vocal transformation, and human-machine interaction (see [Publications](../publications) for details). Supervised students to the completion of their thesis. Conducted public relations duties such as conference and meeting presentations, lab tours, and open houses. Participated in conference organization and operation. Managed lab operations and funding from both corporate and government sources. The latter includes major funding programs such as ERATO, CREST, and Grant-in-Aid for Scientific Research on Innovative Areas.
 
 | | |
 |:--|--:|
-|**RCAST, University of Tokyo**|Meguro, Tokyo, Japan|
-|*Project Assistant Professor*|2020-2021|
+|**University of Toronto**|Toronto, ON, Canada|
+|*Research Assistant*|2015–2020|
 
-Research and education relating to the area of Information Somatics.
+Developed [multi-agent formation, route, and path planning algorithms](../AutonomousWiSAR). Evaluated algorithms by developing and running discrete-time simulations as well as conducting hardware experiments. Co-designed and validated the millirobot used in several hardware experiments. Co-designed several swarm algorithms for this robot. Supervised seven graduate and undergraduate students addressing related sub-problems and served as head teaching assistant for an undergraduate course.
 
 | | |
 |:--|--:|
 |**University of Toronto**|Toronto, ON, Canada|
 |*Graduate Teaching Assistant - MIE 231*|2015–2020|
 
-Marking, invigilation, tutorial, and lab teaching assistant for Probability and Statistics for Engineers. Also managed the teaching assistant team as the Head Teaching Assistant.
+Marking, invigilation, tutorial, and lab teaching assistant for Probability and Statistics for Engineers. Managed the teaching assistant team as the Head Teaching Assistant.
 
 | | |
 |:--|--:|
 |**Bevo Farms**|Milner, BC, Canada|
 |*Capstone project student*|September 2014–January 2015|
 
-The design and implementation of a large scale robotic work platform for reducing strain on workers in a hydroponic seedling farm.
+The design and implementation of a large scale robotic work platform for reducing strain on workers in a hydroponic seedling farm. Developed initial prototype of the [Bevo Farms Mothership](https://www.bevofarms.com/about-bevo-farms/greenhouse-innovation). Specifically focused on devloping the autonomous control system and electronics for sensing and mobility.
 
 | | |
 |:--|--:|

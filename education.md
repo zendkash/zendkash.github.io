@@ -141,7 +141,7 @@ page-order: 2
 </details>
 
 <br/>
-### Recent Awards
+### Awards
 
 Ontario Graduate Scholarship (2016-2019)
 : Merit based scholarship encouraging excellence in graduate studies.

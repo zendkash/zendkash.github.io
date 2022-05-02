@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: 自律捜索
 lang: jp
 lang-ref: AutonomousWiSAR
