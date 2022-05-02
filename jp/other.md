@@ -13,5 +13,5 @@ page-order: 100
 
 現在は[竹内流備中伝](https://takenouchiryubicchu.amebaownd.com/)を習っています。
 
-* 竹内流備中伝二段、[トロント大学古武道部](https://cmac.sa.utoronto.ca/)創立者
+* 竹内流備中伝二段、現在[東京にて稽古中](https://takenouchiryubitchuden.amebaownd.com)
 * テコンドー三段

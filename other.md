@@ -13,5 +13,5 @@ Miscellaneous other items about me.
 
 Currently training in the Bitchu Den lineage of [Takeuchi-ryu](https://en.wikipedia.org/wiki/Takenouchi-ry%C5%AB).
 
-* Takeuchi-ryu: 2nd Dan, president of the [Classical Martial Arts Club at UofT](https://cmac.sa.utoronto.ca/).
+* Takeuchi-ryu: 2nd Dan, currently attending classes in [Tokyo](https://takenouchiryubitchuden.amebaownd.com/).
 * Taekwondo: 3rd Dan
