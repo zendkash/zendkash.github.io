@@ -10,8 +10,15 @@ page-order: 3
 
 | | |
 |:--|--:|
+|**GHELIA INC.**|Taito, Tokyo, Japan|
+|*AI/ML Engineer*|2022-present|
+
+Artificial intelligence and machine learning related work. 
+
+| | |
+|:--|--:|
 |**RCAST, University of Tokyo**|Meguro, Tokyo, Japan|
-|*Assistant Professor*|2021-present|
+|*Assistant Professor*|2021-2022|
 |*Project Assistant Professor*|2020-2021|
 
 Supervised research projects through to publication across a wide variety of topics relating to human augmentation such as haptics, telepresence, human sensing, augmented reality, robotic augmentation, vocal transformation, and human-machine interaction (see [Publications](../publications) for details). Supervised students to the completion of their thesis. Conducted public relations duties such as conference and meeting presentations, lab tours, and open houses. Participated in conference organization and operation. Managed lab operations and funding from both corporate and government sources. The latter includes major funding programs such as ERATO, CREST, and Grant-in-Aid for Scientific Research on Innovative Areas.
