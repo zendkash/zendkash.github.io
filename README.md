@@ -42,6 +42,14 @@ To run this website locally, you will need to have [Jekyll](https://jekyllrb.com
 
 The website will be available at `http://localhost:4000`.
 
+## Experimental Apps
+
+This repository contains a directory called `experimental-apps` for hosting experimental web applications. To add a new app, follow these steps:
+
+1.  Create a new subdirectory for your app inside the `experimental-apps` directory.
+2.  Add your app's files (e.g., `index.html`, `style.css`, `script.js`) to the new subdirectory.
+3.  Add a link to your app's `index.html` file in the `experimental-apps/index.html` file.
+
 ## License
 
 The content of this website is licensed under the [MIT license](LICENSE.md).

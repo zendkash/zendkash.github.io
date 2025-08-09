@@ -15,3 +15,7 @@ Currently training in the Bitchu Den lineage of [Takeuchi-ryu](https://en.wikipe
 
 * Takeuchi-ryu: 2nd Dan, currently attending classes in [Tokyo](https://takenouchiryubitchuden.amebaownd.com/).
 * Taekwondo: 3rd Dan
+
+## Experimental Apps
+
+I have a collection of [experimental apps](/experimental-apps) that I have been working on.

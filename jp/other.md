@@ -15,3 +15,7 @@ page-order: 100
 
 * 竹内流備中伝二段、現在[東京にて稽古中](https://takenouchiryubitchuden.amebaownd.com)
 * テコンドー三段
+
+## 実験的なアプリ
+
+現在、開発中の[実験的なアプリ](/experimental-apps)のコレクションです。
