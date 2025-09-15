@@ -39,7 +39,7 @@ Slug: AutonomousWiSAR
 そこで、静的センサの運用に続いて、動的・静的センサをの共同運用についての研究が進められました。
 この研究の結果、新しい経路指定問題の変種と新しいハイブリッド捜索計画手順が提案されました。
 
-![An example search with a dynamically deployed static-sensor network]({static}/images/MobileStaticHybridSearch.jpg)
+![An example search with a dynamically deployed static-sensor network]({static}/static/images/MobileStaticHybridSearch.jpg)
 <details>
 <summary>図の解説：</summary>
 ハイブリッド捜索計画は、図（a）に示されているような動的に配置される静的センサネットワークを計画することから始まります。

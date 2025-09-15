@@ -35,17 +35,13 @@ To run this website locally, you will need to have Python and `uv` installed.
     ```bash
     uv venv
     ```
-4.  Activate the virtual environment:
-    ```bash
-    source .venv/bin/activate
-    ```
-5.  Install the dependencies:
+4.  Install the dependencies:
     ```bash
     uv pip install -r requirements.txt
     ```
-6.  Start the Pelican development server:
+5.  Start the Pelican development server:
     ```bash
-    pelican -r
+    uv run pelican -r -l
     ```
 
 The website will be available at `http://localhost:8000`.
