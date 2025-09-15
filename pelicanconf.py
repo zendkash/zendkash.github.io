@@ -13,7 +13,6 @@ THEME = 'theme'
 
 # Static paths
 STATIC_PATHS = ['images', 'static']
-STATIC_URL_PREFIX = ''
 
 
 # URL settings for pages
@@ -34,6 +33,7 @@ I18N_SUBSITES = {
     'jp': {
         'SITENAME': '柏野　善大',
         'AUTHOR': '柏野　善大',
+        'THEME_STATIC_PATHS': [],
     }
 }
 
