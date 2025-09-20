@@ -33,7 +33,6 @@ I18N_SUBSITES = {
     'jp': {
         'SITENAME': '柏野　善大',
         'AUTHOR': '柏野　善大',
-        'THEME_STATIC_PATHS': [],
     }
 }
 

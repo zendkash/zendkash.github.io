@@ -6,10 +6,10 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <title>{{ SITENAME }}</title>
-  <link rel="stylesheet" href="{{ SITEURL }}/theme/css/poole.css">
-  <link rel="stylesheet" href="{{ SITEURL }}/theme/css/hyde.css">
-  <link rel="stylesheet" href="{{ SITEURL }}/theme/css/syntax.css">
-  <link rel="stylesheet" href="{{ SITEURL }}/theme/css/self.css">
+  <link rel="stylesheet" href="/theme/css/poole.css">
+  <link rel="stylesheet" href="/theme/css/hyde.css">
+  <link rel="stylesheet" href="/theme/css/syntax.css">
+  <link rel="stylesheet" href="/theme/css/self.css">
 </head>
 
 <body>
@@ -18,7 +18,7 @@
     <div class="container sidebar-sticky">
       <div class="sidebar-about">
         <h1>
-            <img src="{static}/images/IMG_20190101_150621.jpg">
+          <img src="{{static}}/images/IMG_20190101_150621.jpg">
           <a href="{{ SITEURL }}">
             {{ T['title'][DEFAULT_LANG] }}
           </a>
@@ -28,13 +28,14 @@
 
       <nav class="sidebar-nav">
         {% for p in pages|sort(attribute='menuorder') %}
-          <a class="sidebar-nav-item{% if page is defined and p.url == page.url %} active{% endif %}" href="{{ SITEURL }}/{{ p.url }}">{{ p.title }}</a>
+        <a class="sidebar-nav-item{% if page is defined and p.url == page.url %} active{% endif %}"
+          href="{{ SITEURL }}/{{ p.url }}">{{ p.title }}</a>
         {% endfor %}
       </nav>
 
       <div class="language-switcher">
         {% for lang, url in extra_siteurls.items() %}
-          <a href="{{ url }}">{{ T['langchange'][lang] }}</a>
+        <a href="{{ url }}">{{ T['langchange'][lang] }}</a>
         {% endfor %}
       </div>
 
@@ -48,4 +49,5 @@
   </div>
 
 </body>
+
 </html>
