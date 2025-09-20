@@ -6,9 +6,8 @@ Slug: education
 ---
 # Education
 
-| | | 
-|:---|---:| 
 |University of Toronto| Toronto, ON, Canada| 
+|:---|---:| 
 |*Ph.D. in Mechanical and Industrial Engineering* | 2015-2020|
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Associated project](../AutonomousWiSAR)
@@ -25,9 +24,8 @@ Slug: education
 </details>
 
 
-| | | 
-|:---|---:| 
 |University of British Columbia| Vancouver, BC, Canada| 
+|:---|---:| 
 |*B.A.Sc. in Engineering Physics, Minor in Honours Math* | 2010-2015|
 
 <details>
