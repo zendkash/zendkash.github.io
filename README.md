@@ -31,15 +31,7 @@ To run this website locally, you will need to have Python and `uv` installed.
     ```bash
     cd zendkash.github.io
     ```
-3.  Create a virtual environment:
-    ```bash
-    uv venv
-    ```
-4.  Install the dependencies:
-    ```bash
-    uv pip install -r requirements.txt
-    ```
-5.  Start the Pelican development server:
+3.  Start the Pelican development server:
     ```bash
     uv run pelican -r -l
     ```
