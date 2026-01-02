@@ -35,7 +35,7 @@
 
       <div class="language-switcher">
         {% for lang, url in extra_siteurls.items() %}
-        <a href="{{ url }}">{{ T['langchange'][lang] }}</a>
+        <a href="{{ url }}/{% if page %}{{ page.url }}{% endif %}">{{ T['langchange'][lang] }}</a>
         {% endfor %}
       </div>
 
