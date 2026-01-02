@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="{{ DEFAULT_LANG }}">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>{{ SITENAME }}</title>
+  <link rel="stylesheet" href="/theme/css/poole.css">
+  <link rel="stylesheet" href="/theme/css/hyde.css">
+  <link rel="stylesheet" href="/theme/css/syntax.css">
+  <link rel="stylesheet" href="/theme/css/self.css">
+</head>
+
+<body>
+
+  <div class="sidebar">
+    <div class="container sidebar-sticky">
+      <div class="sidebar-about">
+        <h1>
+          <img src="{{static}}/images/IMG_20190101_150621.jpg">
+          <a href="{{ SITEURL }}">
+            {{ T['title'][DEFAULT_LANG] }}
+          </a>
+        </h1>
+        <p class="lead">{{ T['description'][DEFAULT_LANG] }}</p>
+      </div>
+
+      <nav class="sidebar-nav">
+        {% for p in pages|sort_pages_by_menuorder %}
+        <a class="sidebar-nav-item{% if page is defined and p.url == page.url %} active{% endif %}"
+          href="{{ SITEURL }}/{{ p.url }}">{{ p.title }}</a>
+        {% endfor %}
+      </nav>
+
+      <div class="language-switcher">
+        {% for lang, url in extra_siteurls.items() %}
+        <a href="{{ url }}/{% if page %}{{ page.url }}{% endif %}">{{ T['langchange'][lang] }}</a>
+        {% endfor %}
+      </div>
+
+      <p>&copy; 2023. All rights reserved.</p>
+    </div>
+  </div>
+
+  <div class="content container">
+    {% block content %}
+    {% endblock %}
+  </div>
+
+</body>
+
+</html>

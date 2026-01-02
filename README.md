@@ -1,12 +1,12 @@
 # Zendai Kashino's Personal Website
 
-This repository contains the source code for Zendai Kashino's personal academic and professional website, available at [https://zendkash.github.io/](https://zendkash.github.io/).
+This repository contains the source code for Zendai Kashino's personal academic and professional website, available at [https://kashino.info/](https://kashino.info/).
 
 ## About
 
 This website serves as a portfolio for Zendai Kashino, an AI/ML Engineer. It includes information about his professional experience, education, publications, and other projects. The site is bilingual, with content available in both English and Japanese.
 
-The website is built with [Jekyll](https://jekyllrb.com/) and uses a modified version of the [Hyde](https://github.com/poole/hyde) theme.
+The website is built with [Pelican](https://getpelican.com/) and uses a custom theme.
 
 ## Content
 
@@ -21,7 +21,7 @@ The website includes the following sections:
 
 ## Development
 
-To run this website locally, you will need to have [Jekyll](https://jekyllrb.com/docs/installation/) installed.
+To run this website locally, you will need to have Python and `uv` installed.
 
 1.  Clone the repository:
     ```bash
@@ -31,24 +31,20 @@ To run this website locally, you will need to have [Jekyll](https://jekyllrb.com
     ```bash
     cd zendkash.github.io
     ```
-3.  Install the dependencies:
+3.  Start the Pelican development server:
     ```bash
-    bundle install
-    ```
-4.  Start the Jekyll server:
-    ```bash
-    bundle exec jekyll serve
+    uv run pelican -r -l
     ```
 
-The website will be available at `http://localhost:4000`.
+The website will be available at `http://localhost:8000`.
+
+## Deployment
+
+Deployment is handled automatically by a GitHub Action. When changes are pushed to the `main` branch, the action will build the site and deploy it to the `gh-pages` branch.
 
 ## Experimental Apps
 
-This repository contains a directory called `experimental-apps` for hosting experimental web applications. To add a new app, follow these steps:
-
-1.  Create a new subdirectory for your app inside the `experimental-apps` directory.
-2.  Add your app's files (e.g., `index.html`, `style.css`, `script.js`) to the new subdirectory.
-3.  Add a link to your app's `index.html` file in the `experimental-apps/index.html` file.
+This repository contains a directory called `experimental-apps` for hosting experimental web applications. These are located in the `theme/static` directory and are copied to the output directory during the build process.
 
 ## License
 
