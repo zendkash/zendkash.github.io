@@ -1,33 +1,14 @@
 name: Deploy to GitHub Pages
-
 on:
   push:
-    branches:
-      - main
-
+    branches: ["master"]
+  workflow_dispatch:
 jobs:
-  build-and-deploy:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-
-      - name: Set up Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: '3.12'
-
-      - name: Set up uv
-        run: pip install uv
-
-      - name: Install dependencies
-        run: uv pip install -r requirements.txt
-
-      - name: Build the site
-        run: pelican -s publishconf.py
-
-      - name: Deploy to GitHub Pages
-        uses: peaceiris/actions-gh-pages@v3
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./output
+  deploy:
+    uses: "getpelican/pelican/.github/workflows/github_pages.yml@main"
+    permissions:
+      contents: "read"
+      pages: "write"
+      id-token: "write"
+    with:
+      settings: "publishconf.py"
