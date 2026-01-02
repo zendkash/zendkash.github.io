@@ -60,3 +60,15 @@ DEFAULT_PAGINATION = False
 
 # Uncomment if you want document-relative URLs when developing
 # RELATIVE_URLS = True
+
+def sort_pages_by_menuorder(pages):
+    def get_val(p):
+        try:
+            return int(getattr(p, 'menuorder', 999))
+        except (ValueError, TypeError):
+            return 999
+    return sorted(pages, key=get_val)
+
+JINJA_FILTERS = {
+    'sort_pages_by_menuorder': sort_pages_by_menuorder
+}
